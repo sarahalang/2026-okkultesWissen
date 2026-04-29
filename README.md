@@ -3,3 +3,15 @@ This is the repository for my classes as guest professor at Bergische Universit√
 
 
 https://github.com/sarahalang/2026-okkultesWissen
+
+
+# Videos
+Die Videos zur Veranstaltung finden Sie auf Youtube.
+
+[Playlist mit allen Videos](https://www.youtube.com/watch?v=68VXF71i704&list=PLWNohMNguM_k_jUCWddwreaG0h39H8sFw)
+
+## Inhaltliche Einheiten
+
+## Generelle Informationen 
+
+[Einf√ºhrung ins wissenschaftliche Arbeiten und Schreiben](https://youtu.be/68VXF71i704)
