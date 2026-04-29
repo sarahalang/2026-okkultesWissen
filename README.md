@@ -12,6 +12,9 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 
 ## Inhaltliche Einheiten
 
+1. [Überblick/Einführung in die Veranstaltungsinhalte](https://youtu.be/qbxx5gS60is)
+2. [Themenblöcke der Veranstaltung ](https://youtu.be/xCWml-AyvRQ)
+
 ## Generelle Informationen 
 
 [Einführung ins wissenschaftliche Arbeiten und Schreiben](https://youtu.be/68VXF71i704)
