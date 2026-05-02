@@ -15,6 +15,13 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 1. [Überblick/Einführung in die Veranstaltungsinhalte](https://youtu.be/qbxx5gS60is)
 2. [Themenblöcke der Veranstaltung ](https://youtu.be/xCWml-AyvRQ)
 
+
+## Literaturliste zum Thema
+1. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 1)](https://youtu.be/jiCEK9YZ0EQ)
+2. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 2)](https://youtu.be/HWzkw8HI2AA)
+3. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 3)](https://youtu.be/mqhJ-19Jx6U)
+
+
 ## Generelle Informationen 
 
 [Einführung ins wissenschaftliche Arbeiten und Schreiben](https://youtu.be/68VXF71i704)
