@@ -36,6 +36,9 @@ Zum verschlüsselten alchemischen Text (Wellcome MS 309):
 - Digitalisat: 
 https://wellcomecollection.org/works/qb3carav/items
 
+Beginn auf S. 7:
+"Flores sulphuris (?), das ist sublimierter Schwefel, den machet man also..."
+
 Text-Snippets zum Vergleich (auf der Doppelseite 14/15):
 - Für alle Febres
 - Flores Antimonii roht und weis zumachen
