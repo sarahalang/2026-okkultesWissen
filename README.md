@@ -25,3 +25,16 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 ## Generelle Informationen 
 
 [Einführung ins wissenschaftliche Arbeiten und Schreiben](https://youtu.be/68VXF71i704)
+
+
+---
+# Übung
+
+Zum verschlüsselten alchemischen Text (Wellcome MS 309):
+- Erwähnt und kurz besprochen in: https://doi.org/10.58009/aere-perennius0105
+- Katalogeintrag mit Hintergrundinformationen: https://wellcomecollection.org/works/qb3carav 
+- Digitalisat: 
+https://wellcomecollection.org/works/qb3carav/items
+
+# Kontakt 
+Emails bitte an meine MPIWG-Adresse siehe: https://www.mpiwg-berlin.mpg.de/de/people/slang
