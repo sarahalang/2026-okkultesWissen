@@ -36,5 +36,12 @@ Zum verschlüsselten alchemischen Text (Wellcome MS 309):
 - Digitalisat: 
 https://wellcomecollection.org/works/qb3carav/items
 
+Text-Snippets zum Vergleich (auf der Doppelseite 14/15):
+- Für alle Febres
+- Flores Anhimonii roht und weis zumachen
+- Wie man den Mercurium Solis machen sol, das ist wie man aus Goldt (Sol) Quecksilber machen. Im Namen Unsers Herren und Heilants Ihesu Christi, Amen ☿ ☼ Maria
+
+
+
 # Kontakt 
 Emails bitte an meine MPIWG-Adresse siehe: https://www.mpiwg-berlin.mpg.de/de/people/slang
