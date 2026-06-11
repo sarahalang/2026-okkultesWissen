@@ -38,7 +38,7 @@ https://wellcomecollection.org/works/qb3carav/items
 
 Text-Snippets zum Vergleich (auf der Doppelseite 14/15):
 - Für alle Febres
-- Flores Anhimonii roht und weis zumachen
+- Flores Antimonii roht und weis zumachen
 - Wie man den Mercurium Solis machen sol, das ist wie man aus Goldt (Sol) Quecksilber machen. Im Namen Unsers Herren und Heilants Ihesu Christi, Amen ☿ ☼ Maria
 
 ![Teilweise Lösung London Wellcome MS.309](https://github.com/sarahalang/2026-okkultesWissen/blob/main/london-wellcome-ms309-teilloesung.png)
