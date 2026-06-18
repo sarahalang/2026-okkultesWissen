@@ -16,7 +16,7 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 2. [Themenblöcke der Veranstaltung (31min)](https://youtu.be/xCWml-AyvRQ)
 3. [Wie man ein frühneuzeitliches astrologisches Horoskop liest (30min)](https://youtu.be/dPgypMqMNBs)
 4. [Das Making&Knowing Projekt (11min)]()
-5. [Das Casebooks Projekt (13min)]()
+5. [Das Casebooks Projekt (13min)](https://youtu.be/wekzBqh8Nug)
 6. [Das Furnace&Fugue Projekt (14min)]()
 
 ### Künstliche Intelligenz (KI/AI)
