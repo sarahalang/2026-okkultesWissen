@@ -12,13 +12,13 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 
 ## Inhaltliche Einheiten
 
-1. [Überblick/Einführung in die Veranstaltungsinhalte](https://youtu.be/qbxx5gS60is)
-2. [Themenblöcke der Veranstaltung ](https://youtu.be/xCWml-AyvRQ)
-3. [Wie man ein frühneuzeitliches astrologisches Horoskop liest](https://youtu.be/dPgypMqMNBs)
+1. [Überblick/Einführung in die Veranstaltungsinhalte (21min)](https://youtu.be/qbxx5gS60is)
+2. [Themenblöcke der Veranstaltung (31min)](https://youtu.be/xCWml-AyvRQ)
+3. [Wie man ein frühneuzeitliches astrologisches Horoskop liest (30min)](https://youtu.be/dPgypMqMNBs)
 
 ### Künstliche Intelligenz (KI/AI)
 
-1. [Introduction to Machine Learning](https://www.youtube.com/watch?v=KyzD6zaX9sQ&list=PLWNohMNguM_nO3SG9UrzPpbybV_UoCg5w&index=3) 
+1. [Introduction to Machine Learning (60min)](https://www.youtube.com/watch?v=KyzD6zaX9sQ&list=PLWNohMNguM_nO3SG9UrzPpbybV_UoCg5w&index=3) 
 
 
 Die Videos sind sicherlich besser im Original auf Englisch, aber Youtube verfügt über Funktionen, automatisch übersetzte Audios zu verwenden. 
@@ -30,14 +30,14 @@ Die Videos sind sicherlich besser im Original auf Englisch, aber Youtube verfüg
 5. Für mehr Informationen siehe: https://www.3blue1brown.com/?topic=neural-networks
 
 ## Literaturliste zum Thema
-1. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 1)](https://youtu.be/jiCEK9YZ0EQ)
-2. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 2)](https://youtu.be/HWzkw8HI2AA)
-3. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 3)](https://youtu.be/mqhJ-19Jx6U)
+1. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 1, 18min)](https://youtu.be/jiCEK9YZ0EQ)
+2. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 2, 16min)](https://youtu.be/HWzkw8HI2AA)
+3. [Literatur zu "Okkultes Wissen von Alchemie bis AI" (Teil 3, 16min)](https://youtu.be/mqhJ-19Jx6U)
 
 
 ## Generelle Informationen 
 
-[Einführung ins wissenschaftliche Arbeiten und Schreiben](https://youtu.be/68VXF71i704)
+[Einführung ins wissenschaftliche Arbeiten und Schreiben (61min)](https://youtu.be/68VXF71i704)
 
 
 ---
