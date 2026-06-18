@@ -15,9 +15,9 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 1. [Überblick/Einführung in die Veranstaltungsinhalte (21min)](https://youtu.be/qbxx5gS60is)
 2. [Themenblöcke der Veranstaltung (31min)](https://youtu.be/xCWml-AyvRQ)
 3. [Wie man ein frühneuzeitliches astrologisches Horoskop liest (30min)](https://youtu.be/dPgypMqMNBs)
-4. [Das Making&Knowing Projekt (11min)]()
+4. [Das Making&Knowing Projekt (11min)](https://youtu.be/8nd6CYJJSV0)
 5. [Das Casebooks Projekt (13min)](https://youtu.be/wekzBqh8Nug)
-6. [Das Furnace&Fugue Projekt (14min)]()
+6. [Das Furnace&Fugue Projekt (14min)](https://youtu.be/A9XSaMFHrws)
 
 ### Künstliche Intelligenz (KI/AI)
 
