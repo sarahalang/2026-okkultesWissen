@@ -23,10 +23,10 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 
 Die Videos sind sicherlich besser im Original auf Englisch, aber Youtube verfügt über Funktionen, automatisch übersetzte Audios zu verwenden. 
 
-1. 3Blue1Brown, _But what is a neural network? (Deep learning chapter 1, 18min)_: https://www.youtube.com/watch?v=aircAruvnKk
-2. 3Blue1Brown, _Gradient descent, how neural networks learn (Deep Learning Chapter 2, erste ca. 12min)_: https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2
-3. 3Blue1Brown, _Large Language Models explained briefly_ (8min): https://www.youtube.com/watch?v=LPZh9BOjkQs
-4. 3Blue1Brown, _Transformers, the tech behind LLMs (Deep Learning Chapter 5, 27min)_ : https://www.youtube.com/watch?v=wjZofJX0v4M
+1. [3Blue1Brown, _But what is a neural network? (Deep learning chapter 1, 18min)_](https://www.youtube.com/watch?v=aircAruvnKk)
+2. [3Blue1Brown, _Gradient descent, how neural networks learn (Deep Learning Chapter 2, erste ca. 12min)_](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
+3. [3Blue1Brown, _Large Language Models explained briefly_ (8min)](https://www.youtube.com/watch?v=LPZh9BOjkQs)
+4. [3Blue1Brown, _Transformers, the tech behind LLMs (Deep Learning Chapter 5, 27min)_](https://www.youtube.com/watch?v=wjZofJX0v4M)
 5. Für mehr Informationen siehe: https://www.3blue1brown.com/?topic=neural-networks
 
 ## Literaturliste zum Thema
