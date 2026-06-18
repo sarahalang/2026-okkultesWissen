@@ -14,6 +14,7 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 
 1. [Überblick/Einführung in die Veranstaltungsinhalte](https://youtu.be/qbxx5gS60is)
 2. [Themenblöcke der Veranstaltung ](https://youtu.be/xCWml-AyvRQ)
+3. [Wie man ein frühneuzeitliches astrologisches Horoskop liest](https://youtu.be/dPgypMqMNBs)
 
 ### Künstliche Intelligenz (KI/AI)
 
