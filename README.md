@@ -18,6 +18,11 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 
 ### Künstliche Intelligenz (KI/AI)
 
+1. [Introduction to Machine Learning](https://www.youtube.com/watch?v=KyzD6zaX9sQ&list=PLWNohMNguM_nO3SG9UrzPpbybV_UoCg5w&index=3) 
+
+
+Die Videos sind sicherlich besser im Original auf Englisch, aber Youtube verfügt über Funktionen, automatisch übersetzte Audios zu verwenden. 
+
 1. 3Blue1Brown, _But what is a neural network? (Deep learning chapter 1, 18min)_: https://www.youtube.com/watch?v=aircAruvnKk
 2. 3Blue1Brown, _Gradient descent, how neural networks learn (Deep Learning Chapter 2, erste ca. 12min)_: https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2
 3. 3Blue1Brown, _Large Language Models explained briefly_ (8min): https://www.youtube.com/watch?v=LPZh9BOjkQs
