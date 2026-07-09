@@ -4,6 +4,9 @@ This is the repository for my classes as guest professor at Bergische Universit�
 
 https://github.com/sarahalang/2026-okkultesWissen
 
+# Prüfung
+Infos zur Prüfung hier: https://github.com/sarahalang/2026-okkultesWissen/blob/main/pruefung.md 
+
 
 # Videos
 Die Videos zur Veranstaltung finden Sie auf Youtube.
