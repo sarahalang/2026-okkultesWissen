@@ -21,7 +21,9 @@ Die Prüfungs findet in folgendem Zoom-Raum statt:
 **Thema: Abgabe- und Prüfungsgespräche Uni Wuppertal Vorlesung/Übung „Okkultes Wissen"**
 Zeit: **23. Juli 2026 09:15 AM- 16:30** Amsterdam, Berlin, Rom, Stockholm, Wien
 An Zoom-Meeting teilnehmen
+
 https://eu02web.zoom-x.de/j/69915737379?pwd=52AYPpiez7VmtHDwVQDZmVqG22sFZ9.1
+
 Meeting-ID: 699 1573 7379
 Kenncode: 864375
 Beitreten – So geht's
