@@ -8,10 +8,29 @@ Sie helfen damit nicht nur sich selbst, sondern auch mir, die Prüfungen möglic
 
 ## 1. Anmeldung zur Prüfung
 
+### Terminumfrage 
 Wenn Sie die Prüfung/Abgabegespräch ablegen möchten, melden Sie sich bitte **über diese Terminumfrage** an: https://terminplaner6.dfn.de/p/3c3870ce77e4fd8cdb92690f70a47b1e-1838167 
 Sagen Sie Bescheid, falls noch mehr Termine benötigt werden sollten. 
 
 Ohne Abgabegespräch kein Abschluss (Ausnahme: Übung siehe unten), da ich die aktive Teilnahme feststellen muss. 
+
+### Zoom-Raum
+
+Die Prüfungs findet in folgendem Zoom-Raum statt: 
+
+**Thema: Abgabe- und Prüfungsgespräche Uni Wuppertal Vorlesung/Übung „Okkultes Wissen"**
+Zeit: **23. Juli 2026 09:15 AM- 16:30** Amsterdam, Berlin, Rom, Stockholm, Wien
+An Zoom-Meeting teilnehmen
+https://eu02web.zoom-x.de/j/69915737379?pwd=52AYPpiez7VmtHDwVQDZmVqG22sFZ9.1
+Meeting-ID: 699 1573 7379
+Kenncode: 864375
+Beitreten – So geht's
+https://eu02web.zoom-x.de/meetings/69915737379/invitations?signature=b6GntcVHzCHRsCICuPZY37OMC5sMt7JryuMIUyT_iOE
+
+Kommen Sie zu dem Termin, den Sie in der Terminumfrage ausgemacht haben.
+Es gibt einen Warteraum und ich lasse Sie in den Raum ein, sobald Sie dran sind bzw. die Person vor Ihnen fertig ist. 
+Falls es mit dem Termin Probleme geben sollte, schreiben Sie eine Email - falls es von meiner Seite aus Probleme gibt, schreibe ich Ihnen auf der Emailadresse, die Sie bei der Terminanmeldung angegeben haben. 
+
 
 ### Übung
 
@@ -195,6 +214,22 @@ Diese Regelung dient dazu, den organisatorischen Ablauf planbar zu halten.
 Da die Lehrveranstaltung nicht meine einzige berufliche Tätigkeit ist, kann ich leider keine Prüfungsorganisation übernehmen, 
 bei der sich Studierende erst lange nach dem eigentlichen Prüfungstermin melden. 
 Mir ist bewusst, dass dies an manchen Universitäten anders gehandhabt wird; ich kann diesen Service jedoch leider nicht über das Ende des Sommersemesters hinaus anbieten.
+
+---
+
+# 9. Umfang
+
+Wir haben uns in der Einheit darauf geeinigt, dass der Umfang der Abgaben oder Prüfungen sich ungefähr nach folgenden Angaben richten sollte. 
+Falls wir in den Details unterschiedliche Abgaben getroffen hatten, dokumentieren und erklären Sie das bitte nochmal in der "Anmeldungs-" oder Abgabeemail an mich. 
+
+- **1 Punkt** (d.h. Anwesenheit/aktive Teilnahme): Schreiben Sie mir Ihre Infos per Email, wählen Sie einen Termin und seien bereit, kurz mit mir über die Veranstaltung und ihre Inhalte zu sprechen.
+- **2 Punkte:** Essay von 2-3 Seiten - kommen Sie kurz zum Abgabegespräch (siehe oben). 
+- **3-4 Punkte:** entweder 15' Mitunten Abgabgegespräch auf Basis eines Essays/kurzen Hausarbeit von 5-8 Seiten oder 30' Minuten Prüfung (Seien Sie bereit, mit einem 2-3' Minuten Minireferat zu einem Thema Ihrer Wahl zu beginnen, ansonsten ist grundsätzlich der gesamte Stoff, siehe Unterlagen hier, Prüfungsstoff)
+- **7-9 Punkte:** 10-15 Seiten Hausarbeit, davon bis zu 5 Seiten Anhang, falls Sie dort Quellenarbeit (wie etwa Transkriptionen) mit dabei haben.
+
+Im Falle einer längeren, sorgfältig und ausführlich gemachten Hausarbeit ist ein Abgabegespräch nicht unbedingt notwenig. 
+
+Falls Sie Fragen haben, melden Sie sich. Melden Sie sich in jedem Fall an, sofern Sie für den Kurs irgendeine Bewertung/Schein etc haben möchten. Falls es mit den von Ihnen angegebenen Modalitäten/Themen wider Erwarten Probleme geben sollte, sage ich Bescheid. 
 
 
 
