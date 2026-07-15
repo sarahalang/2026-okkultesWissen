@@ -25,7 +25,8 @@ Die Videos zur Veranstaltung finden Sie auf Youtube.
 ### Künstliche Intelligenz (KI/AI)
 
 1. [Introduction to Machine Learning (60min)](https://www.youtube.com/watch?v=KyzD6zaX9sQ&list=PLWNohMNguM_nO3SG9UrzPpbybV_UoCg5w&index=3)
-2. [Critical Digital Humanities Probleme und Lösungen: Datasheets for Datasets (34min)](https://youtu.be/cfv_vjk2X24) 
+2. [Critical Digital Humanities Probleme und Lösungen: Datasheets for Datasets (34min)](https://www.youtube.com/watch?v=cfv_vjk2X24&list=PLWNohMNguM_k_jUCWddwreaG0h39H8sFw&index=15)
+3. [Datasheets for Datasets in der Praxis (29min)](https://www.youtube.com/watch?v=luD7qeK0seM&list=PLWNohMNguM_k_jUCWddwreaG0h39H8sFw&index=16)
 
 
 Die Videos sind sicherlich besser im Original auf Englisch, aber Youtube verfügt über Funktionen, automatisch übersetzte Audios zu verwenden. Im Fall von 3Blue1Brown scheint es sogar deutsche Audiotracks zu geben, die man auswählen kann (über das Einstellungen-Rad). 
